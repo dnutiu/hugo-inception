@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>./categories/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./contact/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/contact/</loc>
   </url>
   
   <url>
-    <loc>./</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./objectives/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/objectives/</loc>
   </url>
   
   <url>
-    <loc>./tags/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./team/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/team/</loc>
   </url>
   
   <url>
-    <loc>./team/iovanovici/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/team/iovanovici/</loc>
   </url>
   
   <url>
-    <loc>./team/topirceanu/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/team/topirceanu/</loc>
   </url>
   
   <url>
-    <loc>./team/udrescu/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/docs/team/udrescu/</loc>
   </url>
   
 </urlset>

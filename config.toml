@@ -1,4 +1,4 @@
-baseURL = "https://metonimie.github.io/hugo-inception/docs/"
+baseURL = "https://metonimie.github.io/hugo-inception"
 languageCode = "en-us"
 title = "Inception"
 publishDir = "docs"

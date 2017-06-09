@@ -1,7 +1,7 @@
 baseURL = "."
-publishDir: "docs"
 languageCode = "en-us"
 title = "Inception"
+publishDir = "docs"
 
 [params]
     description = "Internet of Things Meets Complex Networks for Early Prediction and Management of Chronic Obstructive Pulmonary Disease"

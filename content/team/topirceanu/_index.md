@@ -43,7 +43,7 @@ title = "Team"
             and English sections in the Department of Computer and Software Engineering.
         </p>
         <p class="text-center">
-            <a href="https://sites.google.com/site/alexandrutopirceanu/home">Homepage</a>
+            <a href="http://staff.cs.upt.ro/~alext">Homepage</a>
         </p>
     </div>
 </div>

@@ -50,18 +50,18 @@ page = "objectives"
         </p>
     </div>
     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-    <figure>
-    {{< img class="img-responsive" src="/images/home2.png" alt="Photo of Iovanovici" >}}
-    <figcaption>Figure 1. Overview of INCEPTION at individual-level. Physiological signals are gathered with a sensor
-    network and transmitted via Bluetooth. Anthropometric and clinical parameters are recorded and integrated at
-    smartphone-level and then sent over the cloud in a centralized database.</figcaption>
-    <figure>
-    <br />
-    <figure>
-    {{< img class="img-responsive" src="/images/home1.png" alt="Photo of Iovanovici" >}}
-    <figcaption>Figure 2. Overview of INCEPTION at server-level. Integrated individual data are collected from many 
-    individuals and stored in a centralized database. The gathered dataset is then processed according to the complex
-    network paradigm, in order to find new pathophysiological correlations.</figcaption>
-    <figure>
+        <figure>
+        {{< img class="img-responsive" src="/images/home2.png" alt="Photo of Iovanovici" >}}
+        <figcaption>Figure 1. Overview of INCEPTION at individual-level. Physiological signals are gathered with a sensor
+        network and transmitted via Bluetooth. Anthropometric and clinical parameters are recorded and integrated at
+        smartphone-level and then sent over the cloud in a centralized database.</figcaption>
+        <figure>
+        <br />
+        <figure>
+        {{< img class="img-responsive" src="/images/home1.png" alt="Photo of Iovanovici" >}}
+        <figcaption>Figure 2. Overview of INCEPTION at server-level. Integrated individual data are collected from many 
+        individuals and stored in a centralized database. The gathered dataset is then processed according to the complex
+        network paradigm, in order to find new pathophysiological correlations.</figcaption>
+        <figure>
     </div>
 </div>

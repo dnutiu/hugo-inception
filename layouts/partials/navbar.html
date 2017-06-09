@@ -18,10 +18,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="{{ .Site.BaseURL }}">Home <span class="sr-only">(current)</span></a></li>
-                <li><a href="{{ .Site.BaseURL }}/objectives">Project's Objectives</a></li>
+                <li {{ if eq $CurrentPage "objectives"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/objectives">Project Objectives</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                       aria-expanded="false">Project's Results <span class="caret"></span></a>
+                       aria-expanded="false">Project Results <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Papers</a></li>
                         <li><a href="#">Workshops / Webinars</a></li>

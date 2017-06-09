@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/categories/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/contact/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/contact/</loc>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/objectives/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/objectives/</loc>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/tags/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/team/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/team/</loc>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/team/iovanovici/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/team/iovanovici/</loc>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/team/topirceanu/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/team/topirceanu/</loc>
   </url>
   
   <url>
-    <loc>https://metonimie.github.io/hugo-inception/docs/team/udrescu/</loc>
+    <loc>https://metonimie.github.io/hugo-inception/team/udrescu/</loc>
   </url>
   
 </urlset>

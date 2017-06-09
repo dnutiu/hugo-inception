@@ -44,3 +44,16 @@ p {
 .img-responsive {
     margin: 0 auto;
 }
+
+@media (min-width: 700px) {
+    .header-gri {
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right;
+
+    }
+
+    .header-gri p {
+        width: 80%;
+    }
+}

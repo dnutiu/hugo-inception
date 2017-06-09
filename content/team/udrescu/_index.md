@@ -20,5 +20,8 @@ title = "Team"
             got involved in research that focus on network science, online social networks, systems biology, and
             network medicine.
         </p>
+        <p class="text-center">
+            <a href="http://www.acsa.upt.ro/about_us/mihai_udrescu.htm">Homepage</a>
+        </p>
     </div>
 </div>

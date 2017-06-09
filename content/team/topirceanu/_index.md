@@ -42,5 +42,8 @@ title = "Team"
             Romanian
             and English sections in the Department of Computer and Software Engineering.
         </p>
+        <p class="text-center">
+            <a href="https://sites.google.com/site/alexandrutopirceanu/home">Homepage</a>
+        </p>
     </div>
 </div>

@@ -24,5 +24,8 @@ title = "Team"
         In 2014 he co-founded a technology company – <a href="http://efens.eu/">Effective Engineering Solutions</a> – which provide engineering and
         development services mainly for industrial automation applications
         </p>
+        <p class="text-center">
+            <a href="https://sites.google.com/site/iovanalex/">Homepage</a>
+        </p>
     </div>
 </div>

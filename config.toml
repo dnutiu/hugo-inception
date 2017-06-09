@@ -1,4 +1,5 @@
 baseURL = "."
+publishDir: "docs"
 languageCode = "en-us"
 title = "Inception"
 

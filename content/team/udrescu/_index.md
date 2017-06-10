@@ -1,5 +1,6 @@
 +++
-title = "Team"
+title = "Mihai Udrescu"
+page = "team"
 +++
 <div class="page-header">
     <h1>Mihai Udrescu</h1>

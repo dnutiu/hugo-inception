@@ -42,6 +42,10 @@ p {
     margin: 0 10px;
 }
 
+.fifteenpx li {
+    font-size: 15px;
+}
+
 .img-responsive {
     margin: 0 auto;
 }

@@ -9,7 +9,7 @@ page = "team"
     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
         <p>Project director – <a href="{{< BaseURL >}}/team/udrescu">Mihai Udrescu</a></p>
         <p>UPT (ACSA Research Laboratory) team</p>
-        <ul>
+        <ul class="fifteenpx">
             <li>Post-doctoral researchers:</li>
             <ul>
                 <li><a href="{{< BaseURL >}}/team/topirceanu">Alexandru Topîrceanu</a></li>
@@ -19,7 +19,7 @@ page = "team"
             <li>PhD students: <a href="{{< BaseURL >}}/team/gavriliu">Constantina Gavriliu</a></li>
         </ul>
         <p>UMFT team</p>
-        <ul>
+        <ul class="fifteenpx">
             <li>UMFT coordinator: Stefan Mihaicuta, MD</li>
             <li>Senior researchers:</li>
             <ul>

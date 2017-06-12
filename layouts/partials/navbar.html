@@ -19,15 +19,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="{{ .Site.BaseURL }}">Home <span class="sr-only">(current)</span></a></li>
                 <li {{ if eq $CurrentPage "objectives"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/objectives">Project Objectives</a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                       aria-expanded="false">Project Results <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Papers</a></li>
-                        <li><a href="#">Workshops / Webinars</a></li>
-                        <li><a href="#">Presentations</a></li>
-                    </ul>
-                </li>
+                <li {{ if eq $CurrentPage "results"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/results">Project Results</a></li>
                 <li {{ if eq $CurrentPage "team"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/team">Team</a></li>
                 <li {{ if eq $CurrentPage "contact"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/contact">Contact</a></li>
             </ul>

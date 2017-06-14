@@ -17,7 +17,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="{{ .Site.BaseURL }}">Home <span class="sr-only">(current)</span></a></li>
+                <li {{ if .IsHome}}class="active"{{ end }} ><a href="{{ .Site.BaseURL }}">Home <span class="sr-only">(current)</span></a></li>
                 <li {{ if eq $CurrentPage "objectives"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/objectives">Project Objectives</a></li>
                 <li {{ if eq $CurrentPage "results"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/results">Project Results</a></li>
                 <li {{ if eq $CurrentPage "team"}}class="active"{{ end }}><a href="{{ .Site.BaseURL }}/team">Team</a></li>

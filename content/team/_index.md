@@ -14,7 +14,7 @@ page = "team"
             <ul>
                 <li><a href="{{< BaseURL >}}/team/topirceanu">Alexandru Topîrceanu</a></li>
                 <li><a href="{{< BaseURL >}}/team/iovanovici">Alexandru Iovanovici</a></li>
-                <li>Andrei Lihu</li>
+                <li><a href="{{< BaseURL >}}/team/lihu">Andrei Lihu</a></li>
             </ul>
             <li>PhD students: <a href="{{< BaseURL >}}/team/gavriliu">Constantina Gavriliu</a></li>
         </ul>
